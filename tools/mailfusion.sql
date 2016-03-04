@@ -1,0 +1,10 @@
+ALTER TABLE  `template` ADD  `custom1` VARCHAR( 100 ) NOT NULL ,
+ADD  `custom2` VARCHAR( 100 ) NOT NULL ,
+ADD  `custom3` VARCHAR( 100 ) NOT NULL ,
+ADD  `custom4` VARCHAR( 100 ) NOT NULL ,
+ADD  `custom5` VARCHAR( 100 ) NOT NULL ,
+ADD  `custom6` VARCHAR( 100 ) NOT NULL ,
+ADD  `custom7` VARCHAR( 100 ) NOT NULL ,
+ADD  `custom8` VARCHAR( 100 ) NOT NULL ,
+ADD  `custom9` VARCHAR( 100 ) NOT NULL ,
+ADD  `custom10` VARCHAR( 100 ) NOT NULL ;
